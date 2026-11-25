@@ -1,3 +1,4 @@
 # Social Assets
 
-Asset repository for social media publications.
+Repository for hosting public social media assets and carousels.
+
